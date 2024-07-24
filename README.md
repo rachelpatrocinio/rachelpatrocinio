@@ -6,7 +6,7 @@ Qui troverete tutti i progetti realizzati autonomamente o in team, durante il mi
 
 Sono, quindi, disponibile a tutto! Mi metto in gioco e ho sempre voglia di imparare nuove skills! 🖥
 
-Se siete interessati ad avere in azienda una persona solare, dinamica e determinata, forse sono la persona adatta a voi! 🤗   
+Se siete interessati ad avere in azienda una persona solare, dinamica e determinata, sono la persona adatta a voi! 🤗   
 
 Non esitate a contattarmi! Che non vedo l'ora di iniziare il mio percorso lavorativo come Web Developer! 🚀
 
