@@ -1,5 +1,5 @@
-## Ciao a tutti! 👋
-# Benvenuti nel mio profilo Github! 🥰
+# Ciao a tutti! 👋
+## Benvenuti nel mio profilo Github! 🥰
 
 Qui troverete tutti i progetti realizzati autonomamente o in team, durante il mio percorso in #Boolean!
 
