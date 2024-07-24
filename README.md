@@ -2,7 +2,13 @@
 
 # 👋 Benvenuti nel mio profilo Github! 🥰
 
-Qui troverete tutti i progetti realizzati autonomamente o in team, durante il mio percorso in #Boolean!
+Qui troverete tutti i progetti realizzati autonomamente o in team, durante il mio percorso in <a href="https://boolean.careers/" target="_blank">Boolean!
+
+
+Tecnologie utilizzate:
+
+<image src="/images/html-5.png" alt="Image description"><image src="/images/css-3.png" alt="Image description"><image src="/images/js.png" alt="Image description"><image src="/images/vue.png" alt="Image description"><image src="/images/mysql.png" alt="Image description"><image src="/images/php.png" alt="Image description"><image src="/images/laravel.png" alt="Image description">
+
 
 🙋‍♀️ Attualmente sono alla ricerca di un lavoro che mi sappia stimolare e mi aiuti ad arricchire il mio bagaglio da Full Stack Web Developer! 
 
