@@ -4,9 +4,11 @@
 Qui troverete tutti i progetti realizzati autonomamente o in team, durante il mio percorso in #Boolean!
 
 🙋‍♀️ Attualmente sono alla ricerca di un lavoro che mi sappia stimolare e mi aiuti ad arricchire il mio bagaglio da Full Stack Web Developer! 
+
 Sono, quindi, disponibile a tutto! Mi metto in gioco e ho sempre voglia di imparare nuove skills! 🖥
 
-Se siete interessati ad avere in azienda una persona solare, dinamica e determinata, forse sono la persona adatta a voi! 🤗
+Se siete interessati ad avere in azienda una persona solare, dinamica e determinata, forse sono la persona adatta a voi! 🤗   
+
 Non esitate a contattarmi! Che non vedo l'ora di iniziare il mio percorso lavorativo come Web Developer! 🚀
 
 <!--
