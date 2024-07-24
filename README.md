@@ -1,4 +1,8 @@
-# Ciao a tutti! 👋  Sono Rachel! Benvenuti nel mio profilo Github! 🥰
+ ├─ images
+     └─ ciao.png
+ ├─ README.md
+
+# Ciao a tutti! 👋 Benvenuti nel mio profilo Github! 🥰
 
 Qui troverete tutti i progetti realizzati autonomamente o in team, durante il mio percorso in #Boolean!
 
