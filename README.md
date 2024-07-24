@@ -16,6 +16,7 @@ Non esitate a contattarmi! Che non vedo l'ora di iniziare il mio percorso lavora
 
 Qui il mio LinkedIn! 
 🖇 https://www.linkedin.com/in/rachel-anne-patrocinio-80811b315/ 
+📩 rachelannepatrocinio@gmail.com
 
 <!--
 **rachelpatrocinio/rachelpatrocinio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
