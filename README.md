@@ -15,6 +15,8 @@ Se siete interessati ad avere in azienda una persona solare, dinamica e determin
 Non esitate a contattarmi! Che non vedo l'ora di iniziare il mio percorso lavorativo come Web Developer! 🚀
 
 Qui il mio LinkedIn! 
+
+
 🖇 https://www.linkedin.com/in/rachel-anne-patrocinio-80811b315/ 
 
 📩 rachelannepatrocinio@gmail.com
