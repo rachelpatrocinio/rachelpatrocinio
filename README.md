@@ -8,6 +8,8 @@ Sono, quindi, disponibile a tutto! Mi metto in gioco e ho sempre voglia di impar
 
 Se siete interessati ad avere in azienda una persona solare, dinamica e determinata, sono la persona adatta a voi! 🤗   
 
+## I miei contatti
+
 Non esitate a contattarmi! Che non vedo l'ora di iniziare il mio percorso lavorativo come Web Developer! 🚀
 
 Qui il mio LinkedIn! 
