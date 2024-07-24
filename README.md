@@ -1,6 +1,6 @@
+<image src="/images/ciao-2.png" alt="Image description">
 
-
-# Ciao a tutti! 👋 Benvenuti nel mio profilo Github! 🥰
+# 👋 Benvenuti nel mio profilo Github! 🥰
 
 Qui troverete tutti i progetti realizzati autonomamente o in team, durante il mio percorso in #Boolean!
 
