@@ -1,6 +1,4 @@
- ├─ images
-     └─ ciao.png
- ├─ README.md
+
 
 # Ciao a tutti! 👋 Benvenuti nel mio profilo Github! 🥰
 
